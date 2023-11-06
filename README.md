@@ -22,5 +22,8 @@ Refactor of randomized Password Generator.
 ![Alt text](<images/Screenshot 2023-11-05 at 5.09.02 PM.png>)
 
 ## Git Hub linked Application 
-file:///Users/ed_dawg/Documents/code-repo/Password-Generator-/index.html
+
+
+## Git Hub 
+https://github.com/EdwardBecerra2/Password-Generator-
 
